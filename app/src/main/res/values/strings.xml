@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">My Recipes</string>
+    <string name="title_activity_main">Recipes</string>
+    <string name="title_activity_recipe">Recipe</string>
+    <string name="title_activity_add_recipe">New recipe</string>
+    <string name="title_edit_recipe">Edit recipe</string>
+    <string name="recipe_heading_1">Ingredients</string>
+    <string name="recipe_heading_2">Directions</string>
+    <string name="recipe_heading_3">Nutrition facts</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_ingredients">Ingredients</string>
+    <string name="hint_directions">Directions</string>
+    <string name="hint_nutritions">Nutritions</string>
+    <string name="error_no_title">Set a title</string>
+    <string name="msg_deleted">deleted</string>
+    <string name="action_done">Done</string>
+
+    <string-array name="dialog_items">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+
+    <string name="demo_recipe_1_title">Easy pancakes</string>
+    <string name="demo_recipe_1_description">Learn a skill for life with our foolproof crêpe recipe that ensures perfect pancakes every time - elaborate flip optional</string>
+    <string name="demo_recipe_1_ingredients">
+        100 g plain flour \n
+        2 large eggs \n
+        300 ml milk \n
+        1 tbsp sunflower or vegetable oil \n
+        lemon wedges to serve (optional) \n
+        caster sugar to serve (optional)
+    </string>
+    <string name="demo_recipe_1_directions">
+        1. Put the flour, eggs, milk, 1 tbsp oil and a pinch of salt into a bowl or large jug, then whisk to a smooth batter. Set aside for 30 mins to rest if you have time, or start cooking straight away. \n \n
+        2. Set a medium frying pan or crêpe pan over a medium heat and carefully wipe it with some oiled kitchen paper. When hot, cook your pancakes for 1 min on each side until golden, keeping them warm in a low oven as you go. \n \n
+        3. Serve with lemon wedges and sugar, or your favourite filling. Once cold, you can layer the pancakes between baking parchment, then wrap in cling film and freeze for up to 2 months.
+
+    </string>
+    <string name="demo_recipe_1_nutritions">61 Kcal\n2 g Fat\n7 g Carbs\n1 g Sugars\n3 g Protein</string>
+
+    <!-- Keys -->
+    <string name="key_recipe_title">recipe_title</string>
+    <string name="key_recipe_image_uri">recipe_imageUri</string>
+    <string name="key_recipe_description">recipe_description</string>
+    <string name="key_recipe_ingredients">recipe_ingredients</string>
+    <string name="key_recipe_directions">recipe_steps</string>
+    <string name="key_recipe_nutritions">recipe_nutritions</string>
+</resources>
